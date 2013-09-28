@@ -1,4 +1,4 @@
-# Workspaces
+# PyWorkspaces
 
 Python utilities for working with multiple workspaces in Ubuntu
 
